@@ -48,6 +48,5 @@ and solved with confidence.
 
 ## 👨‍💻 Author
 
-**Jaren Dwyane Luna**  
-Student • Developer • Problem Solver  
+**Jaren Dwyane Luna**   
 > “One Day? or Day One?”
