@@ -1,3 +1,4 @@
+package arrayProblems;
 
 public class ShiftElement {
     public static void main(String[] args) {

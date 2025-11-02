@@ -1,3 +1,4 @@
+package arrayProblems;
 
 public class MaxAndMin {
     public static void main(String[] args) {
