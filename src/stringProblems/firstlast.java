@@ -9,8 +9,6 @@ public class firstlast {
         for(int num : nums){
             System.out.print(num + " ");
         }
-
-
     }
 
     public static int[] getFirstLast(int[] arr){
